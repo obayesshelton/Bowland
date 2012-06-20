@@ -11,7 +11,7 @@ $('.port_btn').click(function () {
             display: "block"
         });
             $('#portfolio .inner').css({
-            paddingTop: "130px"
+            paddingTop: "100px"
         });
        $('#head_area').css({
             borderBottom: "none"
