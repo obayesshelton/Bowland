@@ -16,8 +16,8 @@
 						
 						<div class="banner_head">
 							<div id="logo"></div>
-						<div class="header">This is a header</div>
-						<div class="strap">This is a strapline. so its a tad bit longer</div>
+						<div class="header">Bowland Ventures</div>
+						<div class="strap">Pushing companies that extra mile</div>
 
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 		
 		<div id="footer">
 			<div class="inner">
-				<div class="copyright">JHB@Bowlandventures.com | 07595565632 | Moorlands Barn, Winder lane, Forton, nr Preston | &copy; Bowland Ventures</div>
+				<div class="copyright">JHB@Bowlandventures.com | Moorlands Barn, Winder lane, Forton, nr Preston | &copy; Bowland Ventures</div>
 			</div>
 		</div>
 	</body>
