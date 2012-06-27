@@ -71,7 +71,7 @@
 		<div id="footer">
 			<div class="inner">
 				<div class="copyright">
-					JHB@Bowlandventures.com | Moorlands Barn, Winder lane, Forton, nr Preston, PR3 0AX | &copy; Bowland Ventures
+					<a href="mailto:JHB@Bowlandventures.com">JHB@Bowlandventures.com</a> | Moorlands Barn, Winder lane, Forton, nr Preston, PR3 0AX | &copy; Bowland Ventures
 				</div>
 			</div>
 		</div>
