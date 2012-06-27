@@ -6,7 +6,8 @@ p.ticker { background: url('images/tick.png') no-repeat left; padding-left: 20px
 .inner { width: 960px; margin: 0 auto; z-index: 3; position: relative; }
 .lhs,
 .rhs { float: left; width: 480px; }
-
+a { color: #606060; text-decoration: none;}
+a:hover { color: #606060; text-decoration: none;}
 /* LOGO */
 
 #logo { width: 100px; height: 130px; float: left; background: url('images/bv_logo.png') no-repeat left; margin-right: 30px; }
