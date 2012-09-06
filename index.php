@@ -71,7 +71,8 @@
 		<div id="footer">
 			<div class="inner">
 				<div class="copyright">
-					JHB@Bowlandventures.com | Moorlands Barn, Winder lane, Forton, nr Preston, PR3 0AX | &copy; Bowland Ventures
+					<p>JHB@Bowlandventures.com | Moorlands Barn, Winder lane, Forton, nr Preston, PR3 0AX | &copy; Bowland Ventures</p>
+					<p class="pbr">Powered by</p><a href="http://wwww.rooble.co.uk" title="Rooble" target="_blank"><h1 class="rooble"></h1></a>
 				</div>
 			</div>
 		</div>
